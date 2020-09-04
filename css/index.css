@@ -166,3 +166,28 @@ footer nav a {
     text-decoration: none;
 }
 
+.leverage{
+    border-bottom: dotted;
+}
+
+.strategy{
+    float: left;
+    margin-top: 5%;
+    margin: 4% 0 0 0%;
+    padding-right: 56%;
+}
+
+.how{
+    float: right;
+    margin: -44% 0 0 54%;
+}
+
+.places{
+    float: right;
+    margin: 9% 54% 0% 53%;
+}
+
+.collaboration{
+    float: left;
+    margin: -44% 50% 0% 54%;
+}
